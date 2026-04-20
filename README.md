@@ -50,5 +50,13 @@ poetry -V
 ```
 poetry install
 ```
+### 7. Запуск тетратку юпитер
+```
+poetry run jupyter notebook
+```
+### 8. Выбираем фаил для работы
+```
+Через /File >>> fotohos_*.ipynb
+```
 
 ## Автор: Юшко Ю.Ю.
